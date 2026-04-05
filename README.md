@@ -14,3 +14,4 @@ contract SimpleArray {
         return numbers.length;
     }
 }
+Remove unused code
