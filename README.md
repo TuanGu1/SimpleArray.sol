@@ -15,3 +15,4 @@ contract SimpleArray {
     }
 }
 Remove unused code
+Optimize gas usage
